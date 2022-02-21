@@ -1,0 +1,8 @@
+Dear ${student_name},
+
+Grade: ${grade}
+Percentage: ${percentage}
+
+Congratulations! Please find your certificate attached to this email!
+
+Regards,
